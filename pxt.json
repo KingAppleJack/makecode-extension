@@ -1,0 +1,18 @@
+{
+    "name": "Micro:Bit Motor Driver",
+    "version": "0.1.2",
+    "description": "Servo and DC Motor Driver",
+    "icon": "images/product_img.png",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "MotorDriver.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
